@@ -1,3 +1,7 @@
+
+![Screenshot 2025-07-08 203522](https://github.com/user-attachments/assets/f59e772a-bbd1-4f45-8283-a083b30c4a6b)
+
+
 # 🧠 DataFrame ChatBot – Ollama + LangChain
 
 This is a **Streamlit web application** that lets you **chat with your CSV or Excel datasets using natural language**. It leverages **LangChain**, **Ollama**, and the **Gemma 3** LLM to analyze your data and respond conversationally.
